@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SoundManagerWinLosePreset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 0240f6059a4231e47a325694bf612bcd, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: estado
+    value: Victoria
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: primeraVictoria
+    value: 
+    objectReference: {fileID: 8300000, guid: 5877f21220a782e4e9b636f72ed1f5f3, type: 3}
+  - target: {fileID: 0}
+    propertyPath: segundaVictoria
+    value: 
+    objectReference: {fileID: 8300000, guid: 804a86dc05a8829408078dbb2ce2fc57, type: 3}
+  - target: {fileID: 0}
+    propertyPath: terceraVictoria
+    value: 
+    objectReference: {fileID: 8300000, guid: 24353dbe559990d418b1aed10cbb1924, type: 3}
+  - target: {fileID: 0}
+    propertyPath: primeraDerrota
+    value: 
+    objectReference: {fileID: 8300000, guid: 1d2f348735857f047b7a5defd60d930a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: segundaDerrota
+    value: 
+    objectReference: {fileID: 8300000, guid: c6b596fd07a14a64b89285b6f079b167, type: 3}
+  m_ExcludedProperties: []
+  m_CoupledType:
+    m_NativeTypeID: 0
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_CoupledProperties: []
